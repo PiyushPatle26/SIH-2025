@@ -1,0 +1,37 @@
+{
+  "image_path": "sand.png",
+  "timestamp": "2025-09-25T23:32:01.715880",
+  "gps_coordinates": null,
+  "scale_mm_per_pixel": "0.013555223",
+  "aruco_detected": true,
+  "statistics": {
+    "total_grains": 2084,
+    "diameter_mm_mean": 0.33152778818041295,
+    "diameter_mm_median": 0.30437518063884117,
+    "diameter_mm_std": 0.33000947953285587,
+    "diameter_mm_min": 0.05298492853544457,
+    "diameter_mm_max": 13.499108588451257,
+    "phi_mean": 1.7363840239428605,
+    "phi_median": 1.7160776589875912,
+    "phi_std": 0.5819665649342202,
+    "D10": 0.18617116996916885,
+    "D50": 0.30437518063884117,
+    "D90": 0.4639584874918305,
+    "uniformity_coefficient": 1.7735451957698165,
+    "D60": 0.33018298408966534,
+    "D30": 0.2508637268456654,
+    "curvature_coefficient": 1.0237846730945939,
+    "classification_distribution": {
+      "Medium_Sand": 1323,
+      "Fine_Sand": 581,
+      "Coarse_Sand": 127,
+      "Very_Fine_Sand": 37,
+      "Very_Coarse_Sand": 11,
+      "Very_Fine_Gravel": 2,
+      "Coarse_Silt": 2,
+      "Medium_Gravel": 1
+    },
+    "dominant_type": "Medium_Sand"
+  },
+  "output_directory": "analysis_results"
+}
